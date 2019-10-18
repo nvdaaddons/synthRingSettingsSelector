@@ -1,4 +1,4 @@
-# Einstellungswähler für den Sprachausgabenring #
+# Einstellungswähler für den Einstellungsring der Sprachausgabe #
 
 * Autor: David CM
 * [Stabile Version herunterladen][1]
@@ -25,10 +25,10 @@ Einfach wie jede andere Erweiterung installieren.
 
 ## Nutzung
 Um festzulegen, welche Einstellungen enthalten sind, gehen Sie zu
-NVDA-Einstellungen und wählen Sie die Kategorie "Einstellungen für den
-Sprachausgabenring". In dieser Kategorie können Sie alle von dieser
-Erweiterung unterstützten Funktionen konfigurieren. Standardmäßig enthaltene
-Einstellungen:
+NVDA-Einstellungen und wählen Sie die Kategorie "Einstellungswähler für den
+Einstellungsring der Sprachausgabe". In dieser Kategorie können Sie alle von
+dieser Erweiterung unterstützten Funktionen konfigurieren. Standardmäßig
+enthaltene Einstellungen:
 
 * Sprache.
 * Stimme.

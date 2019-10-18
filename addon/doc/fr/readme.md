@@ -5,7 +5,7 @@
 * Télécharger [Version de développement][2]
 * Compatibilité NVDA: 2019.2
 
-Cette extension permet à l'utilisateur de choisir quels paramètres doivent apparaître dans la boucle des paramètres de synthétiseur.
+Cette extension permet à l'utilisateur de choisir les paramètres devant apparaître dans la boucle de paramètres synthétiseur.
 
 ## Caractéristiques
 Cette extension fournit les fonctionnalités suivantes:
@@ -25,9 +25,10 @@ Installez-le simplement comme n'importe quel extension NVDA.
 
 ## Utilisation
 Pour activer ou désactiver des fonctionnalités, accédez aux paramètres NVDA
-et sélectionnez la catégorie "Synth ring settings selector". Dans cette
-catégorie, vous pouvez configurer toutes les fonctionnalités prises en
-charge par l'extension. Paramètres inclus par défaut:
+et sélectionnez la catégorie "Sélecteur de paramètres de la boucle
+synthétiseur". Dans cette catégorie, vous pouvez configurer toutes les
+fonctionnalités prises en charge par l'extension. Paramètres inclus par
+défaut:
 
 * Langue.
 * Voix.
