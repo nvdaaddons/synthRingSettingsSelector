@@ -1,4 +1,4 @@
-# Synth ring settings selector #
+# Syntetisaattorin asetusrenkaan asetusten valitsin #
 
 * Tekijä: David CM
 * Lataa [vakaa versio][1]
@@ -23,22 +23,23 @@ Tarvitset NVDA 2019.2:n tai uudemman.
 Asenna se NVDA:n lisäosana.
 
 ## Käyttö
-To enable or disable which settings are included, go to NVDA settings and
-select "Synth ring settings selector" category. In that category you can
-configure all supported features by this add-on. Settings included by
-default:
+Sisällytettävät asetukset valitaan menemällä NVDA:n asetuksiin ja
+valitsemalla "Syntetisaattorin asetusrenkaan asetusten valitsin"
+-kategoria. Tässä kategoriassa voit määrittää kaikki tämän lisäosan tukemat
+ominaisuudet. Oletusarvoisesti sisällytetään seuraavat asetukset:
 
-* language.
-* voice.
-* variant.
-* rate.
-* rate boost.
-* volume.
-* pitch.
-* inflection.
+* Kieli
+* Ääni
+* Muunnelma
+* Nopeus
+* Nopeuden lisäys
+* Voimakkuus
+* Korkeus
+* Sävy
 
-Note: This dialog shows the supported settings by the current synthesizer
-only. Settings not present here aren't modified in the add-on config.
+Huom: Tässä valintaikkunassa näytetään vain nykyisen syntetisaattorin
+tukemat asetukset. Sellaisia asetuksia, joita ei näy tässä luettelossa, ei
+muuteta.
 
 [[!tag dev stable]]
 
