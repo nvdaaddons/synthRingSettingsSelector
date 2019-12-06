@@ -35,7 +35,7 @@ uključene postavke su:
 * dodatna brzina
 * glasnoća
 * visina
-* fleksija
+* intonacija
 
 Napomena: Ovaj dijaloški okvir prikazuje podržane postavke samo trenutačne
 govorne jedinice. Postavke koje nisu ovdje prisutne ne mijenjaju se u
