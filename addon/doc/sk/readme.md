@@ -1,44 +1,43 @@
-# Synth ring settings selector #
+# Nastavenia kruhu hlasového výstupu #
 
 * Autor: David CM
 * Stiahnúť [stabilnú verziu][1]
 * Stiahnúť [vívojovú verziu][2]
-* Kompatibilita s NVDA: 2019.2
+* Funguje s NVDA 2019.2
 
-Tento doplnok umožňuje používateľovi zvoliť, ktoré nastavenia sa majú zobraziť v kruhu nastavený syntézy.
+Tento doplnok umožňuje používateľovi zvoliť, ktoré nastavenia majú byť k dispozícii v kruhu nastavení hlasového výstupu.
 
 ## Vlastnosti
 Tento doplnok poskytuje nasledujúce funkcie:
 
-* Panel kategórií v nastaveniach NVDA na výber nastavení, ktoré chcete
-  zahrnúť v kruhu nastavenia syntézy.
-* Uložiť konkrétne nastavenia pre daný profil.
-* prepíše predvolené nastavenia ovládača syntézy, ktoré sa zobrazujú v kruhu
-  nastavení syntetizátora.
+* Vetvu v strome nastavení NVDA, kde je možné vybrať nastavenia, ktoré budú
+  dostupné v kruhu hlasového výstupu.
+* Uložiť konkrétne nastavenia pre konkrétny konfiguračný profil.
+* prepíše predvolené nastavenia pre konkrétny hlasový výstup.
 
 ## Požiadavky
-Vyžaduje sa NVDA 2019.2 alebo novší.
+Vyžaduje sa NVDA od 2019.2.
 
 ## Inštalácia
 Stačí nainštalovať ako doplnok NVDA.
 
 ## Použitie
-To enable or disable which settings are included, go to NVDA settings and
-select "Synth ring settings selector" category. In that category you can
-configure all supported features by this add-on. Settings included by
-default:
+Ak chcete zapnúť alebo vypnúť príslušné nastavenia kruhu nastavení hlasového
+výstupu, otvorte ponuku NVDA > nastavenia. Nastavenia môžete začiarknúť a
+odčiarknuť vo vetve nastavenia kruhu hlasového výstupu. Dostupné sú tieto
+možnosti:
 
 * Jazyk.
 * Hlas.
 * variant.
-* Tempo.
-* Znásobenie tempa.
+* Rýchlosť.
+* Znásobiť tempo.
 * Hlasitosť.
 * Výška.
 * Intonácia.
 
 Poznámka: V tomto dialógovom okne sú zobrazené iba podporované nastavenia
-aktuálneho syntetizátora. Nastavenia, ktoré ta nenachádzajú, sa v
+aktuálneho hlasového výstupu. Nastavenia, ktoré sa tu nenachádzajú, sa v
 konfigurácii doplnku nemenia.
 
 [[!tag dev stable]]
