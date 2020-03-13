@@ -30,7 +30,7 @@ uključene postavke su:
 
 * jezik
 * glas
-* varianta
+* varijanta
 * brzina
 * dodatna brzina
 * glasnoća
